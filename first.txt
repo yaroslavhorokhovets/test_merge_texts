@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Haha!
-=======
-test_branch branch here
->>>>>>> fdf672014a5fb3eca5cce3db21f3ce6bd6dcc909
+master branch
